@@ -1,0 +1,76 @@
+/*
+Author: Kamil Wilas
+Copyright: Kamil Wilas
+License: MIT
+*/
+
+/*Imports*/
+@import url("reset.css");
+
+body {
+  padding: 1em 1em 0em 1em;
+  margin: 0 auto;
+  background: #fff;
+  color: #000;
+  font-family: serif;
+  font-size: 120%;
+  max-width: 70%;
+  /*height: 100%;*/
+}
+
+h1 {
+  margin: 0.5em 0em 0.5em 0em;
+  font-size: 2.5em;
+  /*font-size: 250%;*/
+}
+
+h2 {
+  margin: 1.5em 0em 0.5em 0em;
+  font-size: 1.8em;
+  /*font-size: 180%;*/
+}
+
+p {
+  padding: 0em 0em 0em 1em;
+  text-align: justify;
+  line-height: 1.7em;
+  font-size: 1.5em;
+  /*font-size: 150%;*/
+}
+
+ul {
+  padding: 0em 0em 0em 2.2em;
+  list-style-type: disc;
+  font-size: 1.5em;
+  /*font-size: 150%;*/
+}
+li {
+  padding: 0em 0em 0.7em 0em;
+}
+
+header {
+  margin: 4.5em 0em 8em 0em;
+}
+
+
+header figure {
+  float: left;
+  margin: -4em 0em 0em 0em;
+}
+
+header .slogan {
+  margin: 0em 0em 0em 14em;
+}
+
+footer {
+  margin: 6em 0em 0em 0em;
+  font-size: 0.8em;
+  /*font-size: 80%;*/
+}
+
+.line {
+  height: 1px;
+  background-color:#000;
+  margin: 0.5em 0em 0.5em 0em;
+  overflow: hidden;
+}
